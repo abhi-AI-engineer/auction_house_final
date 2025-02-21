@@ -2,20 +2,23 @@
 
 Some basic commands for run project:
 
-cmd frontend-1
+## cmd frontend-1
 ```
 npm install
 npm start
-
 ```
 
 
-cmd Backend-1
+## cmd Backend-1
+```
 anvil
     _ pick and past the private key
+```
 
-cmd Backend-2
+## cmd Backend-2
+```
 forge script script/Deploy.s.sol --rpc-url $RPC_URL --private-key $PRIVATE_KEY --broadcast
+```
 
 
 
