@@ -22,9 +22,8 @@ forge script script/Deploy.s.sol --rpc-url $RPC_URL --private-key $PRIVATE_KEY -
 
 
 
-
-
-
-.env 
+### .env 
+```
 PRIVATE_KEY= you ke past from anvil
-RPC_URL=http://localhost:8545 
+RPC_URL=http://localhost:8545
+```
